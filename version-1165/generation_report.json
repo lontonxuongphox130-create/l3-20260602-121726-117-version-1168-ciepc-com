@@ -1,0 +1,18 @@
+{
+  "parsed_movies": 2000,
+  "category_counts": {
+    "guochan": 200,
+    "haiwai": 200,
+    "juji": 200,
+    "aiqingxiju": 200,
+    "xuanyifan": 200,
+    "kehuanqihuan": 200,
+    "dongzuomaoxian": 200,
+    "kongbujingsong": 200,
+    "jiatingdonghua": 200,
+    "juqingjishi": 200
+  },
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "video_sources_used": 20
+}
